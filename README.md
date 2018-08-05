@@ -1,5 +1,7 @@
 # PokeAPI
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/pokeapi.svg)](https://www.guardrails.io)
+
 
 A RESTful API for Pokemon
 
